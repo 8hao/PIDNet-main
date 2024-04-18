@@ -11,7 +11,7 @@ PRINT_FREQ: 10
 DATASET:
   DATASET: SK2cavityPV
   ROOT: /mnt/data
-  TEST_SET: 'list/SK2cavityPV/test.lst'
+  TEST_SET: 'list/SK2cavityPV/val.lst'
   TRAIN_SET: 'list/SK2cavityPV/train.lst'
   NUM_CLASSES: 4
 MODEL:
